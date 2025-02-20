@@ -20,9 +20,9 @@ names(crickets)
 ```
 
 
-```{r cars}
-summary(cars)
-```
+```{r summary, echo = FALSE}
+summary(crickets)
+``` 
 
 ## Including Plots
 

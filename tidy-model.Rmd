@@ -19,6 +19,9 @@ data(crickets, package = "modeldata")
 names(crickets)
 ```
 
+```{r summary, echo = FALSE}
+summary(crickets)
+``` 
 
 ```{r summary, echo = FALSE}
 summary(crickets)

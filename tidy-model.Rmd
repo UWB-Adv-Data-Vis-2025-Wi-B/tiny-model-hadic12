@@ -42,6 +42,8 @@ ggplot(crickets, aes(x = temp, y = rate)) +
   xlab('Temperature (Celsius)')
 ```
 
+Based on a scatter plot of temperature and chirping, it seems that as temperature increases, the rate of chirping also increases.
+
 ## Including Plots
 
 You can also embed plots, for example:
